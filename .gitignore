@@ -1,1 +1,1 @@
-echo -e "*.class\n*.jar\ntarget/\n__pycache__/\n*.pyc\nvenv/\n*.log\n/data/processed/*\n/data/input/*" > .gitignore
+-r *.class\n*.jar\ntarget/\n__pycache__/\n*.pyc\nvenv/\n*.log\n/data/processed/*\n/data/input/*

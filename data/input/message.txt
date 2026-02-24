@@ -1,0 +1,2 @@
+Hello, this text will be converted into Capital letter
+Here each line will be read separately
